@@ -1,2 +1,0 @@
-a="datta"
-print(c)
